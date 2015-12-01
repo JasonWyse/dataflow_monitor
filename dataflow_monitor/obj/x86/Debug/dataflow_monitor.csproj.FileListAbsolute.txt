@@ -1,0 +1,10 @@
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\bin\Debug\dataflow_monitor.exe
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\bin\Debug\dataflow_monitor.pdb
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\bin\Debug\PacketDotNet.dll
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\bin\Debug\SharpPcap.dll
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.csprojResolveAssemblyReference.cache
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.Properties.Resources.resources
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.csproj.GenerateResource.Cache
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.exe
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.pdb
+D:\zhangyaogong\VisualStudio2010\dataflow_monitor\dataflow_monitor\obj\x86\Debug\dataflow_monitor.Form1.resources
